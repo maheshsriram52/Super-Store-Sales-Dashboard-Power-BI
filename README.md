@@ -224,7 +224,7 @@ cd Super-Store-Sales-Dashboard-Power-BI
 
 | 👤 **Sriram Mahesh Babu** |
 |---|
-| 📧 [your.email@example.com](maheshsriram52@gmail.com) |
+| 📧 [maheshsriram52@gmail.com](maheshsriram52@gmail.com) |
 | 🔗 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/srirammaheshbabu)) |
 
 
@@ -240,6 +240,6 @@ cd Super-Store-Sales-Dashboard-Power-BI
 
 <br/>
 
-**Made with ❤️ and lots of ☕ by [Your Name]**
+**Made with ❤️ and lots of ☕ 
 
 </div>
