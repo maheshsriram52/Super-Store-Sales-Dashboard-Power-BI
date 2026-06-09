@@ -17,7 +17,7 @@
 
 <br/>
 
-![Dashboard Preview](SuperStore_Sales_Dashboard.pdf)
+![Dashboard Preview](https://github.com/maheshsriram52/Super-Store-Sales-Dashboard-Power-BI/blob/main/Super%20Store%20Sales%20Dashboard.png)
 
 </div>
 
@@ -193,10 +193,10 @@ Implemented dynamic **Region slicers** (Central, East, South, West) and **Year t
 
 ```bash
 # Step 1 — Clone the repository
-git clone https://github.com/your-username/superstore-sales-dashboard.git
+git clone (https://github.com/maheshsriram52/Super-Store-Sales-Dashboard-Power-BI)
 
 # Step 2 — Navigate into the project folder
-cd superstore-sales-dashboard
+cd Super-Store-Sales-Dashboard-Power-BI
 ```
 
 > 📥 **Step 3** — Open `SuperStore_Sales_Dashboard.pbix` in **Power BI Desktop**
@@ -222,12 +222,11 @@ cd superstore-sales-dashboard
 
 <div align="center">
 
-| 👤 **[Your Name]** |
+| 👤 **Sriram Mahesh Babu** |
 |---|
-| 📧 [your.email@example.com](mailto:your.email@example.com) |
-| 🔗 [LinkedIn](https://linkedin.com/in/your-profile) |
-| 🌐 [Portfolio](https://your-portfolio.com) |
-| 🐙 [GitHub](https://github.com/your-username) |
+| 📧 [your.email@example.com](maheshsriram52@gmail.com) |
+| 🔗 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/srirammaheshbabu)) |
+
 
 </div>
 
